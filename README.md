@@ -9,3 +9,5 @@ Keep in mind there are numerous factors that might affect the growth rate (e.g. 
 so not all countries can be compared easily. China being an obvious outlier since it was country 0.
 Output:
 A Python notebook reporting the conducted analysis and a summary of the conclusions achieved by the conducted correlation analysis. 
+
+https://github.com/sercanalbut/Covid19-2019-2020.git
